@@ -1,0 +1,27 @@
+{
+  "name": "node-express-api-sample",
+  "version": "1.0.0",
+  "description": "trying to create an api rest ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lleflour14/TP_APIREST.git"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "oceane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleflour14/TP_APIREST/issues"
+  },
+  "homepage": "https://github.com/lleflour14/TP_APIREST#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
